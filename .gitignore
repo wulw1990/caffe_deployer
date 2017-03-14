@@ -1,0 +1,10 @@
+# editor
+*~
+*.orig
+*.swp
+*.pyc
+.vscode
+*.o
+*.out
+*.log
+
