@@ -8,3 +8,6 @@
 *.out
 *.log
 
+#bazel
+bazel-*
+
